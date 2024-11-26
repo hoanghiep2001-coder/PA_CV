@@ -1,0 +1,139 @@
+
+Untitled-1.png
+size: 6736, 1508
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_00000
+  rotate: true
+  xy: 2, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00001
+  rotate: false
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00002
+  rotate: true
+  xy: 544, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00003
+  rotate: false
+  xy: 964, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00004
+  rotate: true
+  xy: 1086, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00005
+  rotate: true
+  xy: 1628, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00006
+  rotate: false
+  xy: 1926, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00007
+  rotate: true
+  xy: 2170, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00008
+  rotate: true
+  xy: 2712, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00009
+  rotate: false
+  xy: 2888, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00010
+  rotate: true
+  xy: 3254, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00011
+  rotate: true
+  xy: 3796, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00012
+  rotate: false
+  xy: 3850, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00013
+  rotate: true
+  xy: 4338, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00014
+  rotate: false
+  xy: 4812, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00015
+  rotate: true
+  xy: 4880, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00016
+  rotate: true
+  xy: 5422, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00017
+  rotate: false
+  xy: 5774, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
+1_00018
+  rotate: true
+  xy: 5964, 544
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1
